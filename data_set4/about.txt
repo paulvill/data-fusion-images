@@ -1,0 +1,13 @@
+Both sets of images correspond to the same cross-sections
+
+emb*.tif
+Images stained with
+- DAPI (1:10,000; Vector laboratories) - Channel R
+- rho-DIG probe - Channel G
+- rat anti-Twist (1:1000; gift from Eric Wieschaus, Princeton University) - Channel B
+
+ind_rho*.tif
+Images stained with
+- ind-biotin probe - Channel R
+- rho-DIG probe - Channel G
+- rat anti-Twist (1:1000; gift from Eric Wieschaus, Princeton University) - Channel B
